@@ -57,4 +57,4 @@ A simple Python GUI application that helps you quickly sort images into two cate
 1. **Run the script:**
 
    ```bash
-   python dataset_builder.py
+   python DatasetSelector.py
